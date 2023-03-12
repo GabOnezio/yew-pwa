@@ -1,0 +1,3 @@
+[dev-server]
+dist = "dist"
+sw = "./dist/sw.js"
