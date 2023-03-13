@@ -1,0 +1,10 @@
+c:\Users\GabOnezio\Desktop\Documents\Projetos\WebApps\IMO Creator Studio\yew-pwa\target\debug\deps\implicit_clone-585aeaee386413cf.rmeta: C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\lib.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\sync.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\unsync.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\string.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\array.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\map.rs
+
+c:\Users\GabOnezio\Desktop\Documents\Projetos\WebApps\IMO Creator Studio\yew-pwa\target\debug\deps\implicit_clone-585aeaee386413cf.d: C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\lib.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\sync.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\unsync.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\string.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\array.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\map.rs
+
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\lib.rs:
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\sync.rs:
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\unsync.rs:
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\string.rs:
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\array.rs:
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\implicit-clone-0.3.4\src\map.rs:

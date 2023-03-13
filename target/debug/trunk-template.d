@@ -1,0 +1,1 @@
+C:\Users\GabOnezio\Desktop\Documents\Projetos\WebApps\IMO\ Creator\ Studio\yew-pwa\target\debug\trunk-template.exe: C:\Users\GabOnezio\Desktop\Documents\Projetos\WebApps\IMO\ Creator\ Studio\yew-pwa\src\app.rs C:\Users\GabOnezio\Desktop\Documents\Projetos\WebApps\IMO\ Creator\ Studio\yew-pwa\src\main.rs

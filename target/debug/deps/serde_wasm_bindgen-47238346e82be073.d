@@ -1,0 +1,10 @@
+c:\Users\GabOnezio\Desktop\Documents\Projetos\WebApps\IMO Creator Studio\yew-pwa\target\debug\deps\serde_wasm_bindgen-47238346e82be073.rmeta: C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\lib.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\de.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\error.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\ser.rs
+
+c:\Users\GabOnezio\Desktop\Documents\Projetos\WebApps\IMO Creator Studio\yew-pwa\target\debug\deps\libserde_wasm_bindgen-47238346e82be073.rlib: C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\lib.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\de.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\error.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\ser.rs
+
+c:\Users\GabOnezio\Desktop\Documents\Projetos\WebApps\IMO Creator Studio\yew-pwa\target\debug\deps\serde_wasm_bindgen-47238346e82be073.d: C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\lib.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\de.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\error.rs C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\ser.rs
+
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\lib.rs:
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\de.rs:
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\error.rs:
+C:\Users\GabOnezio\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.3.1\src\ser.rs:

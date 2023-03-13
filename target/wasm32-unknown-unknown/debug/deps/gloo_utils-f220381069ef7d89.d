@@ -1,0 +1,10 @@
+/mnt/c/Users/GabOnezio/Desktop/Documents/Projetos/WebApps/IMO Creator Studio/yew-pwa/target/wasm32-unknown-unknown/debug/deps/gloo_utils-f220381069ef7d89.rmeta: /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/lib.rs /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/errors.rs /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/iter.rs /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/format/json.rs
+
+/mnt/c/Users/GabOnezio/Desktop/Documents/Projetos/WebApps/IMO Creator Studio/yew-pwa/target/wasm32-unknown-unknown/debug/deps/libgloo_utils-f220381069ef7d89.rlib: /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/lib.rs /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/errors.rs /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/iter.rs /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/format/json.rs
+
+/mnt/c/Users/GabOnezio/Desktop/Documents/Projetos/WebApps/IMO Creator Studio/yew-pwa/target/wasm32-unknown-unknown/debug/deps/gloo_utils-f220381069ef7d89.d: /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/lib.rs /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/errors.rs /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/iter.rs /home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/format/json.rs
+
+/home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/lib.rs:
+/home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/errors.rs:
+/home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/iter.rs:
+/home/gabonezio/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.6/src/format/json.rs:
